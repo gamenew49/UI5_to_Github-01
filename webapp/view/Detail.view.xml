@@ -1,0 +1,7 @@
+<mvc:View controllerName="zdemopo01.controller.Detail"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>detailTitle}">
+        <content />
+    </Page>
+</mvc:View>

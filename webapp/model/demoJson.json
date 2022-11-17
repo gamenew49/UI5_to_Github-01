@@ -1,0 +1,21 @@
+{
+    "poApp":{
+        "masterPageTitle": "Json PO List",
+        "detailPageTitle": "Json Detail Data",
+        "poData":[
+            {
+                "poNum" : "10001",
+                "text"  : "text01"
+            },
+            {
+                "poNum" : "10002",
+                "text"  : "text02"
+            },
+            {
+                "poNum" : "10003",
+                "text"  : "text03"
+            }
+        ]
+
+    }
+}
